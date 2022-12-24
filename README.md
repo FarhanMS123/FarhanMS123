@@ -3,11 +3,9 @@ developer, researcher, and tech enthusiast
 
 <p align="center"> Tools | Demos | Previews </p>
 
-<p>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FarhanMS123&show_icons=true&theme=aura&card_width=400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarhanMS123&theme=aura&layout=compact" />
-
+<p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=FarhanMS123&show_icons=true&theme=aura&card_width=400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarhanMS123&theme=aura&layout=compact" />
 </p>
 
 Yeah it is not my real name. But if novelist and cartoonist can have pen name, why programmer cannot have a `cursor name`? :D Aha? Especially, a pen name is also a symbolization which describe their own pride.
