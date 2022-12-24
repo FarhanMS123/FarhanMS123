@@ -1,5 +1,5 @@
-Hi! I am Felis Cato\
-developer, researcher, and tech enthusiast
+## Hi! I am Felis Cato
+### developer, researcher, and tech enthusiast
 
 <p align="center"> Tools | Demos | Previews </p>
 
