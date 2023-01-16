@@ -1,7 +1,11 @@
 # Hi! I am Felis Cato
 ### developer, researcher, and tech enthusiast
 
-<p align="center"> [Tools](https://farhanms123.github.io/#/tools/mlg) | Demos | Previews </p>
+<p align="center">
+    <a href="https://farhanms123.github.io/#/tools/">Tools</a> | 
+    <a href="https://farhanms123.github.io/#/demos/">Demos</a> | 
+    <a href="https://farhanms123.github.io/#/demos/">Previews</a>
+</p>
 
 <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=FarhanMS123&show_icons=true&theme=aura&card_width=400" />
