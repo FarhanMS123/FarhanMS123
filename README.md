@@ -4,7 +4,8 @@
 <p align="center">
     <a href="https://farhanms123.github.io/#/tools/">Tools</a> | 
     <a href="https://farhanms123.github.io/#/demos/">Demos</a> | 
-    <a href="https://farhanms123.github.io/#/demos/">Previews</a>
+    <a href="https://farhanms123.github.io/#/demos/">Previews</a> |
+    <a href="https://farhanms123.github.io/#/libs/">Libs</a>
 </p>
 
 <p align="center">
