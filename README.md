@@ -2,10 +2,12 @@
 ### developer, researcher, and tech enthusiast
 
 <p align="center">
+    <a href="/FarhanMS123?tab=repositories&q=archived:false">Repositories</a> |
+    <a href="/FarhanMS123?tab=repositories&q=archived:true">Archived</a> | 
     <a href="https://farhanms123.github.io/#/tools/">Tools</a> | 
     <a href="https://farhanms123.github.io/#/demos/">Demos</a> | 
     <a href="https://farhanms123.github.io/#/libs/">Libs</a> |
-    <a href="https://farhanms123.github.io/#/demos/">Previews</a>
+    <a href="#">Previews</a>
 </p>
 
 <p align="center">
