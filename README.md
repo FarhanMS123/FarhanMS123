@@ -4,10 +4,10 @@
 <p align="center">
     <a href="//github.com/FarhanMS123?tab=repositories&q=archived:false">Repositories</a> |
     <a href="//github.com/FarhanMS123?tab=repositories&q=archived:true">Archived</a> | 
-    <a href="https://farhanms123.github.io/#/tools/">Tools</a> | 
-    <a href="https://farhanms123.github.io/#/demos/">Demos</a> | 
-    <a href="https://farhanms123.github.io/#/libs/">Libs</a> |
-    <a href="#">Previews</a>
+    <a href="//farhanms123.github.io/#/tools/">Tools</a> | 
+    <a href="//farhanms123.github.io/#/demos/">Demos</a> | 
+    <a href="//farhanms123.github.io/#/libs/">Libs</a> |
+    <a href="//github.com/FarhanMS123?tab=repositories&q=archived%3Afalse+is%3Acurated+github-page">Previews</a>
 </p>
 
 <p align="center">
