@@ -7,7 +7,7 @@
     <a href="//farhanms123.github.io/#/tools/">Tools</a> | 
     <a href="//farhanms123.github.io/#/demos/">Demos</a> | 
     <a href="//farhanms123.github.io/#/libs/">Libs</a> |
-    <a href="//github.com/FarhanMS123?tab=repositories&q=archived%3Afalse+is%3Acurated+github-page">Previews</a>
+    <a href="//github.com/FarhanMS123?tab=repositories&q=archived%3Afalse+topic%3Agithub-page">Previews</a>
 </p>
 
 <p align="center">
