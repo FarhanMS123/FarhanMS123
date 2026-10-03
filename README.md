@@ -2,8 +2,8 @@
 ### developer, researcher, and tech enthusiast
 
 <p align="center">
-    <a href="/search?type=repositories&s=updated&o=desc&q=owner:FarhanMS123+is:public+archived:false">Repositories</a> |
-    <a href="//github.com/FarhanMS123?tab=repositories&q=archived:true">Archived</a> |
+    <a href="//github.com/search?type=repositories&s=updated&o=desc&q=owner:FarhanMS123+is:public+archived:false">Repositories</a> |
+    <a href="//github.com/search?type=repositories&s=updated&o=desc&q=owner:FarhanMS123+is:public+archived:true">Archived</a> |
     <a href="//farhanms123.github.io/#/tools/">Tools</a> | 
     <a href="//farhanms123.github.io/#/demos/">Demos</a> | 
     <a href="//farhanms123.github.io/#/libs/">Libs</a> |
